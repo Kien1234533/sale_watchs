@@ -1,0 +1,21 @@
+#id{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+    color: red;
+    text-decoration: underline;
+    
+}
+.new1{
+    border: solid aqua 1px;
+    width: 55px;
+    padding: 2px 5px;
+    border-radius: 10px ;
+    background-color: aqua;
+}
+.id{
+    background-image:   url("images/re.jpg");
+}
+.box{
+    border-top: 1px solid black;
+}
+
